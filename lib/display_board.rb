@@ -10,4 +10,4 @@ end
 
 board[4] = " x "
 
-print display_board(board)
+print display_board(board[4])
